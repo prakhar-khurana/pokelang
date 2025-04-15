@@ -1,0 +1,3 @@
+evolve (catch i swap_move 0; i < 5; i = i + 1) {
+  use(i)
+}

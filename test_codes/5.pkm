@@ -1,0 +1,6 @@
+catch level swap_move 10;
+battle (level > 5) {
+  use("High level")
+} faint {
+  use("Low level")
+}

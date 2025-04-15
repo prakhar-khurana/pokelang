@@ -1,0 +1,10 @@
+trainer displayPokemon() {
+  catch myPokemon swap_move pokeball
+    name pokedex_entry "Pikachu" move_set
+    type pokedex_entry "Electric" move_set
+    level pokedex_entry 25
+  pokecapture;
+  use(myPokemon)
+  
+}
+displayPokemon()

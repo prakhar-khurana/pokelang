@@ -1,0 +1,6 @@
+trainer helloWorld() {
+  use("Hello, World!")
+}
+
+helloWorld()
+

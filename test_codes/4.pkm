@@ -1,0 +1,4 @@
+trainer greetPokemon(pokemonName) {
+  use(strcon("Hello, ", pokemonName))
+}
+greetPokemon("Pikachu")

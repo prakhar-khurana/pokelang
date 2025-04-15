@@ -1,0 +1,5 @@
+catch myPokemon swap_move pokeball
+  name pokedex_entry "Pikachu" move_set
+  type pokedex_entry "Electric"
+pokecapture;
+use(myPokemon)

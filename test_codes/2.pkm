@@ -1,0 +1,2 @@
+catch pokemonName swap_move "Pikachu";
+use(pokemonName)
